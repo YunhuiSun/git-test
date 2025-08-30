@@ -6,7 +6,6 @@ package com.atguigu.git;
  * Description:
  *
  * @author sunyunhui
- * @date 2025/8/30 17:36
  * Version 1.0
  */
 public class GitTest {
@@ -16,5 +15,6 @@ public class GitTest {
         System.out.println("hello world");
         System.out.println("hello world");
         System.out.println("hello world");
+        System.out.println("hello git");
     }
 }
